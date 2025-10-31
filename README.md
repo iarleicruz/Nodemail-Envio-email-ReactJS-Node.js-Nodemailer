@@ -1,6 +1,6 @@
 # React + Vite
 
-publicação https://www.luiztools.com.br/post/nodemail-envio-de-email-em-reactjs-nodejs-nodemailer
+Tutorial https://www.luiztools.com.br/post/nodemail-envio-de-email-em-reactjs-nodejs-nodemailer
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
